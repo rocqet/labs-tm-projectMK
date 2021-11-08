@@ -10,6 +10,6 @@ Czujnik ruchu reagującu alarmem dźwiękowym oraz świetlnym
 - Czujnik ruchu 
 - Przewody
 
-[Link](https://botland.com.pl/czujniki-ruchu/1655-czujnik-ruchu-pir-hc-sr501-zielony-5903351241359.html)
+[https://botland.com.pl/czujniki-ruchu/1655-czujnik-ruchu-pir-hc-sr501-zielony-5903351241359.html](https://botland.com.pl/czujniki-ruchu/1655-czujnik-ruchu-pir-hc-sr501-zielony-5903351241359.html)
 
-[Link](https://allegro.pl/oferta/zestaw-l-arduino-uno-starter-kit-prezent-9924753145)
+[https://allegro.pl/oferta/zestaw-l-arduino-uno-starter-kit-prezent-9924753145](https://allegro.pl/oferta/zestaw-l-arduino-uno-starter-kit-prezent-9924753145)
