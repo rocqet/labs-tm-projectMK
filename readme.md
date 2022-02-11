@@ -1,7 +1,7 @@
 # Marcel Król
-# Projekt Technika Mikroprocesorowa
+## Projekt Technika Mikroprocesorowa
 
-## Temat projektu:
+### Temat projektu:
 Czujnik ruchu reagujący alarmem dźwiękowym
 #### Lista elementów
 - Arduino Uno
@@ -10,11 +10,11 @@ Czujnik ruchu reagujący alarmem dźwiękowym
 ![img](./hardware/buzzer.JPG)
 - Czujnik ruchu 
 ![img](./hardware/sensor.JPG)
-- Przewody
 - Płytka prototypowa
 ![img](./hardware/plytka.JPG)
 - Wyświetlacz
 ![img](./hardware/wyswietlacz.JPG)
+- Przewody
 #### Kod:
 ```
 #include <LiquidCrystal_I2C.h>
