@@ -3,15 +3,15 @@
 
 ## Temat projektu:
 Czujnik ruchu reagujący alarmem dźwiękowym
-### Lista elementów
+#### Lista elementów
 - Arduino Uno
 - Buzzer
 - Czujnik ruchu 
 - Przewody
 - Płytka prototypowa
 - Wyświetlacz
-## Kod:
-{
+#### Kod:
+
 #include <LiquidCrystal_I2C.h>
 
 int calibrationTime = 15;
