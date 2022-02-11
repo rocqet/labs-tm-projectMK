@@ -7,10 +7,14 @@ Czujnik ruchu reagujący alarmem dźwiękowym
 - Arduino Uno
 ![img](./hardware/arduino.JPG)
 - Buzzer
+![img](./hardware/buzzer.JPG)
 - Czujnik ruchu 
+![img](./hardware/sensor.JPG)
 - Przewody
 - Płytka prototypowa
+![img](./hardware/plytka.JPG)
 - Wyświetlacz
+![img](./hardware/wyswietlacz.JPG)
 #### Kod:
 ```
 #include <LiquidCrystal_I2C.h>
