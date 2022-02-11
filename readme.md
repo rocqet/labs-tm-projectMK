@@ -112,4 +112,4 @@ void loop(){
   }
 }
 ```
-[![Watch the video](https://youtu.be/9i90Y0lJMNk)
+![Film z testem projektu](https://youtu.be/9i90Y0lJMNk)
