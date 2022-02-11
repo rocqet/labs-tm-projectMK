@@ -11,7 +11,9 @@ Czujnik ruchu reagujący alarmem dźwiękowym
 - Płytka prototypowa
 - Wyświetlacz
 ## Kod:
-
+}
+    }  
+    
 #include <LiquidCrystal_I2C.h>
 
 int calibrationTime = 15;
@@ -30,6 +32,8 @@ boolean takeLowTime;
 int pirPin = 3;    //pin polaczony z wyjsciem sensora PIR
 int ledPin = 13;   //dioda na płytce
 int buzzer = 9;    //sygnał buzzera 
+    }
+}
 
 /////////////////////////////
 //SETUP
@@ -61,6 +65,8 @@ void setup(){
     Serial.println("SENSOR ACTIVE");
     delay(1000);
   }
+}
+
 
 ////////////////////////////
 //LOOP
@@ -104,5 +110,6 @@ void loop(){
            }
        }
   }
+}
 
 
