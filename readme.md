@@ -5,6 +5,7 @@
 Czujnik ruchu reagujący alarmem dźwiękowym
 #### Lista elementów
 - Arduino Uno
+![img](./image/arduino.JPG)
 - Buzzer
 - Czujnik ruchu 
 - Przewody
