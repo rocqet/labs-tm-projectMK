@@ -112,4 +112,4 @@ void loop(){
   }
 }
 ```
-![Film z testem projektu](https://www.youtube.com/embed/9i90Y0lJMNk)
+![Film z testem projektu](https://img.youtube.com/vi/9i90Y0lJMNk/0.jpg)](https://www.youtube.com/watch?v=9i90Y0lJMNk)
