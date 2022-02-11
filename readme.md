@@ -11,7 +11,7 @@ Czujnik ruchu reagujący alarmem dźwiękowym
 - Płytka prototypowa
 - Wyświetlacz
 #### Kod:
-
+```
 #include <LiquidCrystal_I2C.h>
 
 int calibrationTime = 15;
@@ -106,5 +106,5 @@ void loop(){
        }
   }
 }
-
+```
 
