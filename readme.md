@@ -112,4 +112,4 @@ void loop(){
   }
 }
 ```
-
+[![Watch the video](hardware/test.MOV)
