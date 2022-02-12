@@ -112,4 +112,10 @@ void loop(){
   }
 }
 ```
+#### Opis działania projektu:
+Po uruchomieniu następuje konfiguracja czujnika ruchu, po skończonej konfiguracji czujnik jest gotowy do pracy. W przypadku wykrycia ruchu, układ sygnalizuje to sygnałem dźwiękowym, oraz wizualnie na ekranie LCD.
+
+
+
+##### Film przedstawiający działanie projektu:
 [![Test projektu](https://img.youtube.com/vi/9i90Y0lJMNk/0.jpg)](https://www.youtube.com/watch?v=9i90Y0lJMNk)
